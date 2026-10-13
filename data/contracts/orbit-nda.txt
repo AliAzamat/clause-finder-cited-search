@@ -1,0 +1,13 @@
+MUTUAL NONDISCLOSURE AGREEMENT between Orbit Labs and Kestrel Inc
+
+1. Confidential Information. Confidential Information means non-public business, technical or financial information that one party discloses to the other, in any form, and that is marked or reasonably understood to be confidential.
+
+2. Obligations. The receiving party will use Confidential Information only to evaluate the proposed relationship and will protect it with the same care it uses for its own, and no less than reasonable care.
+
+3. Exclusions. Obligations do not apply to information that is public through no fault of the receiving party, was already known to it, or is independently developed.
+
+4. Duration. The duty to protect Confidential Information survives for five years after the date of disclosure.
+
+5. Return of Materials. On written request, the receiving party will return or destroy all Confidential Information and confirm in writing that it has done so.
+
+6. Governing Law. This Agreement is governed by the laws of the State of New York. Any dispute will be heard in the state or federal courts located in New York County.

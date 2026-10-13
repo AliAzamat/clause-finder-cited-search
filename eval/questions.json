@@ -1,0 +1,10 @@
+[
+  {"q": "Who pays the invoice and by when?", "doc": "acme-msa.txt", "clause": "2"},
+  {"q": "What law governs this agreement?", "doc": "acme-msa.txt", "clause": "6"},
+  {"q": "How long do confidentiality duties last?", "doc": "orbit-nda.txt", "clause": "4"},
+  {"q": "Can either side end the contract for breach?", "doc": "acme-msa.txt", "clause": "4"},
+  {"q": "Where is arbitration held?", "doc": "nimbus-saas.txt", "clause": "6"},
+  {"q": "How fast must a security incident be reported?", "doc": "nimbus-saas.txt", "clause": "2"},
+  {"q": "When does the subscription renew?", "doc": "nimbus-saas.txt", "clause": "4"},
+  {"q": "What happens to confidential materials on request?", "doc": "orbit-nda.txt", "clause": "5"}
+]

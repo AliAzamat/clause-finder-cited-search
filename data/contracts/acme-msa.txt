@@ -1,0 +1,13 @@
+MASTER SERVICES AGREEMENT between Acme Corp and Brightline LLC
+
+1. Services. Brightline will provide the software services described in each Order Form. Acme may add services by signing a new Order Form.
+
+2. Fees and Payment. Acme will pay each invoice within thirty days of receipt. Late amounts accrue interest at one percent per month.
+
+3. Term. This Agreement starts on the Effective Date and continues for two years unless it is ended earlier under Section 4.
+
+4. Termination. Either party may terminate this Agreement for material breach if the breach is not cured within thirty days of written notice. Acme may also terminate for convenience on sixty days notice.
+
+5. Limitation of Liability. Neither party is liable for indirect or consequential damages. Each party's total liability is capped at the fees paid in the twelve months before the claim.
+
+6. Governing Law. This Agreement is governed by the laws of the State of Delaware, without regard to its conflict of laws rules.

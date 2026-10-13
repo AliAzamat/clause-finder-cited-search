@@ -1,0 +1,13 @@
+SOFTWARE AS A SERVICE AGREEMENT between Nimbus Cloud and Harbor Retail
+
+1. Subscription. Nimbus grants Harbor a non-exclusive right to access the service for the number of seats listed in the Order Form during the subscription term.
+
+2. Data Protection. Nimbus will keep Harbor's customer data encrypted at rest and in transit, and will notify Harbor of any security incident within seventy-two hours of confirming it.
+
+3. Service Levels. Nimbus will make the service available at least 99.9 percent of each month. If it falls short, Harbor receives a service credit of ten percent of that month's fees.
+
+4. Renewal. The subscription renews automatically for successive one-year terms unless either party gives notice of non-renewal at least ninety days before the term ends.
+
+5. Indemnification. Nimbus will defend Harbor against third-party claims that the service infringes intellectual property rights, and will pay damages finally awarded.
+
+6. Dispute Resolution. The parties will first try to settle any dispute through good-faith negotiation for thirty days. If that fails, the dispute will be resolved by binding arbitration in Chicago, Illinois.
